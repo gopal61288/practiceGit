@@ -9,3 +9,7 @@ function addNum(a,b) {
 function mulitplyNum(a,b) {
     return a*b;
 }
+
+function concatStrings(a,b) {
+    return a+b;
+}
