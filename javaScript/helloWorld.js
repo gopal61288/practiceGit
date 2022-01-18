@@ -4,3 +4,8 @@ console.log("hello world");
 function addNum(a,b) {
     return a+b;
 }
+
+// added @ office... from gopal-outlook account... commit name is multiplyNum() function
+function mulitplyNum(a,b) {
+    return a*b;
+}
