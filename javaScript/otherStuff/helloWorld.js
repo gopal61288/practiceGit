@@ -13,3 +13,9 @@ function mulitplyNum(a,b) {
 function concatStrings(a,b) {
     return a+b;
 }
+
+function replaceStuff(str22) {
+    return str22.replace('_', ' ');
+}
+
+console.log(replaceStuff('gopal_vsspl'));
