@@ -19,3 +19,9 @@ function replaceStuff(str22) {
 }
 
 console.log(replaceStuff('gopal_vsspl'));
+
+function includesStuff(str23) {
+    return str23.includes('ab');
+}
+
+console.log(includesStuff('hell-ab-o'));
