@@ -22,3 +22,7 @@ for(let i=0; i<arr25.length; i++) {
     console.log(`${arr25[i].name} likes ${arr25[i].club} from ${arr25[i].country}`);
 }
 
+
+let arr26 = [1,1,2,3,5,8,13];
+let arr27 = [...arr26];
+console.log(arr27);
