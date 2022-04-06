@@ -11,3 +11,6 @@ console.log(totalley24);
 function addNum25(a,b,c) {
     return a+b+c;
 }
+
+const squared23 = num1 => num1*num1;
+console.log(squared23(4));
