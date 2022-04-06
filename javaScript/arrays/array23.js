@@ -15,7 +15,8 @@ let arr25 = [
     {name: "sunil", club: "bayern", country: "Germany"},
     {name: "vijay", club: "PSG", country: "France"},
     {name: "ajay", club: "Barca", country: "Spain"},
-    {name: "mahesh", club: "Arsenal", country: "England"}
+    {name: "mahesh", club: "Arsenal", country: "England"},
+    {name: "omkar", club: "chelsea", country: "England"},
 ];
 
 for(let i=0; i<arr25.length; i++) {
