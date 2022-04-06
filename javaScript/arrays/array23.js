@@ -12,7 +12,8 @@ console.log(arr24);         // Inspect why this didnt work...
 
 let arr25 = [
     {name: "gopal", club: "Real Madrid", country: "Spain"},
-    {name: "vijay", club: "Barca", country: "Spain"},
+    {name: "vijay", club: "PSG", country: "France"},
+    {name: "ajay", club: "Barca", country: "Spain"},
     {name: "mahesh", club: "Arsenal", country: "England"}
 ];
 
