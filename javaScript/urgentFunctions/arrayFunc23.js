@@ -7,3 +7,7 @@ const totalley24 = addNum24(6)(7);
 // const totalley24 = addNum24(6, 67);  // use this line... see how totalley24 changes color from blue to yellow
                                             // it seems, blue is number/string/something... yellow is function (like addNum23, addNum24)
 console.log(totalley24);
+
+function addNum25(a,b,c) {
+    return a+b+c;
+}
